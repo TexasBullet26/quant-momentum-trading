@@ -1,0 +1,10 @@
+pandas>=2.2
+numpy>=2.0
+requests>=2.32
+python-dotenv>=1.0
+pydantic>=2.8
+fastapi>=0.115
+uvicorn>=0.30
+alpaca-py>=0.42
+coinbase-advanced-py>=1.8
+pytest>=8.3
